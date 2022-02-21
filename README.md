@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonynechar
-- 👀 I’m interested in business solutions, fintech and platform development.
+- 👀 I’m interested in web apps, fintech and platform development.
 - 🌱 I’m currently learning Web Development (Javascript)
 - 📫 How to reach me LinkedIn: Tony Nechar
 
